@@ -1,6 +1,8 @@
 
 
-# Short-term fellowhips for PhD students within the SFB 1287 on variability in language. Visit those pages (https://www.uni-potsdam.de/fileadmin/projects/sfb1287/Ausschreibungen/2021/ShortTermFellows_2022.pdf) and contact us if you would like to apply for a fellowship in our lab
+# Short-term fellowhips for PhD students within the SFB 1287 on variability in language. 
+
+Visit those pages (https://www.uni-potsdam.de/fileadmin/projects/sfb1287/Ausschreibungen/2021/ShortTermFellows_2022.pdf) and contact us if you would like to apply for a fellowship in our lab
 
 # Research assistant positions
 Two positions will be available in project described below at the beginning of next year. Do not hesitate to contact us for more information (buerki@uni-potsdam.de)
