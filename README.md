@@ -37,7 +37,7 @@ In addition, the ideal candidate has
 
 The University of Potsdam strives to maintain gender balance among its staff. Severely dis-abled applicants shall receive preference in case of equal qualifications. We expressly invite applications from people with migration backgrounds.
 
-Please send your application (including letter of motivation, CV, at least 2 names of poten-tial referees, copies of academic certificates) as a single pdf file to Audrey Bürki at buer-ki@uni-potsdam.de until September 30th for full consideration (late applications may be considered until the position is filled). Please direct informal inquiries to buerki@uni-potsdam.de.
+Please send your application (including letter of motivation, CV, at least 2 names of poten-tial referees, copies of academic certificates) as a single pdf file to Audrey Bürki at buerki@uni-potsdam.de until September 30th for full consideration (late applications may be considered until the position is filled). Please direct informal inquiries to buerki@uni-potsdam.de.
 
 
 Potsdam, August 12, 2021
