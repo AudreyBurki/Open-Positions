@@ -1,3 +1,7 @@
+
+# Research assistant positions
+Two positions will be available in project described below at the beginning of next year. Do not hesitate to contact us for more information (buerki@uni-potsdam.de)
+
 # PhD position 
 
 The position is funded by a research grant from the German Research Foundation focused on investigating the mental lexicon using behavioral data and computational modelling. The position is for 26 hours of work per week (65%). The salary and benefits are determined by the collective bargaining agreement for public employees in Germany (TV-L 13 Ost; 100%). This is a temporary position initially limited to a term of 36 months.
