@@ -2,8 +2,8 @@
 
 
 
-# Research assistant positions
-Two positions will be available in project described below at the beginning of next year. Do not hesitate to contact us for more information (buerki@uni-potsdam.de)
+# Two research assistant positions
+Two positions are available in the project described below. Do not hesitate to contact us for more information (buerki@uni-potsdam.de)
 
 # 65% position (starting date: 01.06.2022, 12 months)
 
@@ -14,16 +14,17 @@ The University of Potsdam hosts leading groups in cognitive sciences and linguis
 Potsdam is an attractive historical city and its palaces are a UNESCO World Heritage Site. Furthermore, Potsdam is at close commuting distance to Berlin, a culturally vibrant and progressive city. Both cities have a high quality of life at modest living costs.
 
 Project and responsibilities
-The goal of this project is to model the cognitive mechanisms underlying the production of utterances. Using behavioral experiments and computational modelling, it will examine the role of usage on these mechanisms and test a novel model of language production in which words in long term memory are linked to one another, the strength of these links depending on (and being further modulated by) usage. The collaborator will take design and implement behavioral experiments, collect and analyze data. S/he will may contribute to the comutational modeling as well (depending on expertise).
+The goal of this project is to investigate the cognitive mechanisms underlying the production of utterances, with a focus on the impact of usage. This will be achieved with behavioral experiments and computational modelling. The tasks of the collaborator will include: designing and implementing behavioral experiments, collecting and analyzing data, and, depending on expertise, computational modeling.
 
-We offer
+We offer:
 •	International cooperation and travel support
 •	Excellent computational resources 
 •	Research support by student assistants
 •	A friendly and open-minded lab research environment
-Requirements
+
+Requirements: 
 •	Very good Master in relevant field (Cognitive Sciences, Psycholinguistics, Computer Science, Computational Linguistics, Machine learning, Data Science, etc.)
-•	Excellent computational skills (e.g., MATLAB, Python, R)
+•	Computational skills (e.g., MATLAB, Python, R)
 •	Capacity to work independently
 •	Excellent writing, communication, and presentation skills (in English)
 •	Strong interest in several aspects of the lab’s research focus, i.e., language production, psycholinguistics, neurocognition of language, applied statistics
