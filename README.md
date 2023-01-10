@@ -1,14 +1,15 @@
 
 
 # Two research assistant positions
-Two positions are available. Do not hesitate to contact us for more information (buerki@uni-potsdam.de, fuhrmeister@uni-potsdam.de). Details below.
+Two positions are available. Do not hesitate to contact us for more information (buerki@uni-potsdam.de, fuhrmeister@uni-potsdam.de). Details below, in German.
 
-One position requires a very good command of German, the second is more flexible.
-
-Wir suchen zum nächstmöglichen Zeitpunkt eine wissenschaftliche Hilfskraft (m/w/d) für 8 Stunden/Woche (mit BA) oder 9 Stunden/Woche (ohne BA, ungefähr €520/Monat) zur Unterstützung der Forschung.
+One position requires a very good command of German, the second is more flexible. 
 
 
 ## Stellenangebot in der Arbeitsgruppe Cognitive Science: Language and Methods
+
+Wir suchen zum nächstmöglichen Zeitpunkt eine wissenschaftliche Hilfskraft (m/w/d) für 8 Stunden/Woche (mit BA) oder 9 Stunden/Woche (ohne BA, ungefähr €520/Monat) zur Unterstützung der Forschung.
+
 
 Aufgaben:
 - Mitarbeit bei der Erstellung von Materialien für Experimente
