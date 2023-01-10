@@ -7,7 +7,8 @@ One position requires a very good command of German, the second is more flexible
 
 Wir suchen zum nächstmöglichen Zeitpunkt eine wissenschaftliche Hilfskraft (m/w/d) für 8 Stunden/Woche (mit BA) oder 9 Stunden/Woche (ohne BA, ungefähr €520/Monat) zur Unterstützung der Forschung.
 
-Link: 
+
+## Stellenangebot in der Arbeitsgruppe Cognitive Science: Language and Methods
 
 Aufgaben:
 - Mitarbeit bei der Erstellung von Materialien für Experimente
