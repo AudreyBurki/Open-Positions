@@ -1,5 +1,13 @@
 
 # Open positions
+
+## Short term fellow
+Check the following link 
+https://linguistlist.org/issues/34/2224/
+
+And contact us for any question that relates to the lab and potential project ideas
+
+
 ## 65% position (starting date: September 2023, 22 months)
 
 The position is funded by a research grant from the German Research Foundation (DFG) focused on investigating language production using experimental data and computational modelling (naïve discrimination learning, dynamic models). The position is for 26 hours of work per week (65%). The salary and benefits are determined by the collective bargaining agreement for public employees in Germany (TV-L 13 Ost; 100%). This is a temporary position, initially limited to 22 months.
