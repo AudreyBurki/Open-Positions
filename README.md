@@ -1,96 +1,52 @@
 
 # Open positions
 
-## Short term fellow
-Check the following link 
-https://linguistlist.org/issues/34/2224/
+## PhD Position (100%) in Cognitive Psychology at the University of Grenoble Alpes (France)
 
-And contact us for any question that relates to the lab and potential project ideas
+Applications are invited for a PhD position within the newly funded DFG-ANR project "L2-Spell: The Impact of Orthography on Second Language Word Learning and Processing". The successful applicant will write a PhD thesis whose aim will be to better understand the role of orthographic knowledge in second language learning. The PhD thesis will be supervised by Prof. Elsa Spinelli (University of Grenoble Alpes), with co-supervision by Prof. Audrey Bürki (University of Lausanne) and Dr. Pauline Welby (CNRS, University of Aix-Marseille).
 
+The successful applicant will join the Laboratoire de Psychologie et NeuroCognition (LPNC), a joint research unit of CNRS. The LPNC is structured into five thematic teams: Vision & Emotion, Body & Space, Language, Memory, and Development & Learning. With over 50 permanent members and 65 temporary members, the LPNC conducts research in Cognitive Sciences, combining approaches from humanities and social sciences, engineering sciences applied to cognition, and life sciences (LPNC Website).
 
-## 65% position (starting date: September 2023, 22 months)
+Project Duration: Until September 2027
 
-The position is funded by a research grant from the German Research Foundation (DFG) focused on investigating language production using experimental data and computational modelling (naïve discrimination learning, dynamic models). The position is for 26 hours of work per week (65%). The salary and benefits are determined by the collective bargaining agreement for public employees in Germany (TV-L 13 Ost; 100%). This is a temporary position, initially limited to 22 months.
+Key Responsibilities:
+•	Conduct bibliographic research on the topic.
+•	Design and implement experiments.
+•	Collect and analyze data.
+•	Present findings at seminars and conferences.
+•	Publish results in scientific journals.
 
-We will consider applications from PhD candidates and post-docs. 
-The University of Potsdam hosts leading groups in cognitive sciences and linguistics, providing a vibrant interdisciplinary scientific environment (http://www.uni-potsdam.de/en/cognitive-sciences/index.html). The lab is associated with the Collaborative Research Center SFB 1287 „Limits of variability in language” (https://www.uni-potsdam.de/sfb1287/index.html).
-
-Potsdam is an attractive historical city and its palaces are a UNESCO World Heritage Site. Furthermore, Potsdam is at close commuting distance to Berlin, a culturally vibrant and progressive city. Both cities have a high quality of life at modest living costs.
-
-Project and responsibilities
-The goal of this project is to investigate the cognitive mechanisms underlying the production of utterances, with a focus on the impact of usage. This will be achieved with behavioral experiments and computational modelling. The tasks of the collaborator will include: designing and implementing behavioral experiments, collecting and analyzing data, and, depending on expertise, computational modeling.
-
-### We offer:
-
-•	International cooperation and travel support
-
-•	Excellent computational resources 
-
-•	Research support by student assistants
-
-•	A friendly and open-minded lab research environment
-
-### Requirements: 
-
-•	Master  or PhD in relevant field (Cognitive Sciences, Psycholinguistics, Computer Science, Computational Linguistics, Machine learning, Data Science, etc.)
-
-•	Computational skills (e.g., MATLAB, Python, R)
-
-•	Capacity to work independently
-
-•	Excellent writing, communication, and presentation skills (in English)
-
-•	Strong interest in several aspects of the lab’s research focus, i.e., Language production, Psycholinguistics, Neurocognition of language, Applied statistics
-
-•	High motivation and commitment
+Desired Profile:
+•	A Master’s degree (Master 2) in Psychology or Cognitive Sciences.
+•	Strong writing, communication, and presentation skills (in English).
+•	Keen interest in language production/perception, psycholinguistics, and cognitive psychology.
+•	Organizational skills, Autonomy and ability to work independently.
+•	High motivation and commitment.
 
 
-In addition, the ideal candidate has
+Information and application: Prof. Elsa Spinelli,  elsa.spinelli@univ-grenoble-alpes.fr
+Application Requirements: CV, motivation letter, Master thesis, L3 transcript, One or two references, a letter of recommendation
 
-•	Knowledge of German
+## Post-doc Position in Cognitive Psychology at the University of Lausanne (Switzerland)
 
-•	Expertise in applied statistics
+We offer a three-year postdoc position at the Institute of Psychology, University of Lausanne. The successful candidate will work on project "L2-Spell: The Impact of Orthography on Second Language Word Learning and Processing" together with Audrey Bürki (Lausanne), Elsa Spinelli (Grenoble) and Pauline Welby (Aix-en-Provence).
 
+The ideal candidate has excellent writing skills, experience with experimental and/or acoustic data, strong data analysis and programming skills and a genuine interest in the proposed topic.
+The project will start on the 1.9.2024 and will run for three years.
 
-The University of Potsdam strives to maintain gender balance among its staff. Severely dis-abled applicants shall receive preference in case of equal qualifications. We expressly invite applications from people with migration backgrounds.
+Key Responsibilities:
+•	Conduct bibliographic research on the topic.
+•	Design and implement experiments.
+•	Collect and analyze data.
+•	Present findings at seminars and conferences.
+•	Publish results in scientific journals.
 
-Please send your application (including letter of motivation, CV, at least 2 names of potential referees, copies of academic certificates) as a single pdf file to Audrey Bürki at buerki@uni-potsdam.de until July 31st for full consideration (late applications may be considered until the position is filled). Please direct informal inquiries to buerki@uni-potsdam.de.
+Desired Profile:
+•	A PhD in Psychology, Cognitive Sciences or equivalent.
+•	Strong writing, communication, and presentation skills (in English).
+•	Keen interest in language production/perception, psycholinguistics, and cognitive psychology.
+•	Organizational skills, Autonomy and ability to work independently.
+•	High motivation and commitment.
 
+Information and application: audrey.buerki@gmail.com
 
-
-# Filled positions
-
-### Five research assistant positions
-Five positions are available. Do not hesitate to contact us for more information (buerki@uni-potsdam.de, fuhrmeister@uni-potsdam.de). Details below, in German.
-
-One position requires a very good command of German, the others positions are more flexible. 
-
-
-### Stellenangebot in der Arbeitsgruppe Cognitive Science: Language and Methods
-
-Wir suchen zum nächstmöglichen Zeitpunkt eine wissenschaftliche Hilfskraft (m/w/d) für 8 Stunden/Woche (mit BA) oder 9 Stunden/Woche (ohne BA, ungefähr €520/Monat) zur Unterstützung der Forschung.
-
-
-Aufgaben:
-- Mitarbeit bei der Erstellung von Materialien für Experimente
-- Rekrutierung von Probanden für Experimente
-- Unterstützung bei der Datenerhebung (sowohl webbasiert als auch laborbasiert)
-- Kodierung/Vorverarbeitung der erhobenen Daten, Vorbereitung der Analysen, insbesondere akustische Analysen von Sprachaufzeichnungen
-
-Gesuchtes Profil:
-- Interesse an experimenteller/psycholinguistischer Forschung, evtl. schon erste Erfahrungen
-- Sehr gute Deutsch- und Englischkenntnisse
-
-Die Anstellung erfolgt zunächst für 6 Monate (mit Option auf Verlängerung).
-
-Bei Interesse bitte bis zum 27.01.2023 eine Bewerbung per Mail an Prof. Dr. Audrey Bürki (buerki@uni-potsdam.de) schicken. Die Bewerbung sollte folgendes enthalten: 
-- kurzes Motivationsschreiben, in dem relevante Kenntnisse und Interessen geschildert werden
-- CV oder Lebenslauf (inkl. relevanter Kurse, Sprachkenntnisse)
-
-
-
-### Short-term fellowhips for PhD students within the SFB 1287 on variability in language. 
-
-Visit those pages (https://www.uni-potsdam.de/fileadmin/projects/sfb1287/Ausschreibungen/2021/ShortTermFellows_2022.pdf) and contact us if you would like to apply for a fellowship in our lab
-
-To Main page
