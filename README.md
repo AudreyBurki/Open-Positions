@@ -29,7 +29,7 @@ Application Requirements: CV, motivation letter, Master thesis, L3 transcript, O
 
 ## Post-doc Position in Cognitive Psychology at the University of Lausanne (Switzerland)
 
-We offer a three-year postdoc position at the Institute of Psychology, University of Lausanne. The successful candidate will work on project "L2-Spell: The Impact of Orthography on Second Language Word Learning and Processing" together with Audrey Bürki (Lausanne), Elsa Spinelli (Grenoble) and Pauline Welby (Aix-en-Provence).
+We offer a three-year postdoc position. The successful candidate will work on project "L2-Spell: The Impact of Orthography on Second Language Word Learning and Processing" together with Audrey Bürki (Lausanne), Elsa Spinelli (Grenoble) and Pauline Welby (Aix-en-Provence) and will be based at the Institute of Psychology, University of Lausanne.
 
 The ideal candidate has excellent writing skills, experience with experimental and/or acoustic data, strong data analysis and programming skills and a genuine interest in the proposed topic.
 The project will start on the 1.9.2024 and will run for three years.
